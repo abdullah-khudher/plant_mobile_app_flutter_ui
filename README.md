@@ -1,16 +1,13 @@
-# plant_mobile_app_flutter_ui
+# Plant_mobile_app_flutter_ui
 
-A new Flutter application.
 
-## Getting Started
+## Link of the speed code video of this project:
+https://www.youtube.com/watch?v=rGYyzRS5lR8&lc=UgzdZEqiXOCDYZRs4154AaABAg
 
-This project is a starting point for a Flutter application.
+### Screenshot of the project
+![mine](https://user-images.githubusercontent.com/66040295/90955940-c16d3180-e48a-11ea-86fd-99263e8bfc6b.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
